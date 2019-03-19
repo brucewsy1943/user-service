@@ -1,0 +1,10 @@
+<component name="ArtifactManager">
+  <artifact type="exploded-war" name="user-service">
+    <output-path>$USER_HOME$/Desktop/suer-service</output-path>
+    <root id="root">
+      <element id="module-output" name="user-api" />
+      <element id="module-output" name="user-provider" />
+      <element id="module-output" name="user-service" />
+    </root>
+  </artifact>
+</component>
